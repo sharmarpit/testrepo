@@ -2,3 +2,4 @@ Example git file.
 New change for branch1
 Changes done for branch1_2
 NextCommitforbranch1_2
+Delete dox file and create new pranch
