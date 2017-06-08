@@ -7,3 +7,4 @@ subBranch1_2
 Create branch under branch subbranch1_3
 Change for commands 👌
 Hot fix changes 
+Issue 53
