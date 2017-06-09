@@ -1,0 +1,10 @@
+Example git file.
+New change for branch1
+Changes done for branch1_2
+NextCommitforbranch1_2
+Delete dox file and create new pranch
+subBranch1_2
+Create branch under branch subbranch1_3
+Change for commands 👌
+Issue 53
+Git subbranch1.0
